@@ -27,4 +27,4 @@ onto your system before you can run the following commands:
 1. Launch the site with `ddev launch`
 
 > You might run into a few errors during setup. It's probably because of some missing packages in your
-> system. Copy and paste them into your internet search box, you're sure to find the solution.
+> system. Copy and paste them into your internet search box, you're sure to find their solutions.
